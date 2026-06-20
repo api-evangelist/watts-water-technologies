@@ -2,7 +2,7 @@ aid: watts-water-technologies
 url: https://raw.githubusercontent.com/api-evangelist/watts-water-technologies/refs/heads/main/apis.yml
 name: Watts Water Technologies
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Water
   - Industrial
@@ -19,7 +19,7 @@ apis:
       - Water
       - Industrial
       - Infrastructure
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://api.wattswater.com
     humanURL: https://developer.wattswater.com
     properties:
