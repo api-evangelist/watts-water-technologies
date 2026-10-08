@@ -52,6 +52,12 @@ apis:
     description: >-
       The Watts Water Technologies API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/watts-water-technologies-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/watts-water-technologies-rate-limits.yml
+  - type: FinOps
+    url: finops/watts-water-technologies-finops.yml
   - type: DomainSecurity
     url: security/watts-water-technologies-domain-security.yml
   - type: LinkedIn
